@@ -218,6 +218,7 @@ Este projeto serve como:
 - [ ] Definir entidades do TypeORM
 - [ ] Implementar CRUD básico de produtos
 - [ ] Configurar interceptors e guards
+- [ ] Implementar PWA do projeto
 
 ## 🤝 Como Usar Este Boilerplate
 
